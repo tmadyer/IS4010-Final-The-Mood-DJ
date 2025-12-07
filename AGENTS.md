@@ -4,7 +4,7 @@ This file documents the use of AI agents in the development of this project.
 
 ## Development Process
 
-An AI assistant was used to help generate the initial project structure, code, and tests for "The Mood DJ" application. The assistant helped with:
+An AI assistant, Gemini and Gemini CLI, was used to help generate the initial project structure, code, and tests for "The Mood DJ" application. The assistant helped with:
 
 -   Scaffolding the project with a clean separation of concerns (UI, logic, tests).
 -   Generating boilerplate code for the Streamlit UI (`src/app.py`).
