@@ -1,0 +1,6 @@
+pandas
+# deepface and its dependencies are optional for dev mode
+# deepface
+# opencv-python
+# tensorflow
+pytest
